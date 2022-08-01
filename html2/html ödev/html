@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ANA SAYFA</title>
+</head>
+<body>
+  <h1>EDA NUR ATMACA</h1>  
+      <h3>HAKKIMDA</h3>
+      <p>Merhaba, ben Eda Nur Atmaca. Ankara'da yaşıyorum. Programlama 
+        dilleri öğreniyorum ve kendimi geliştiriyorum.</p>
+        <h3>HOBİLERİM</h3>
+         <p> Programlama dillerinde kendimi geliştirmeyi, 
+            kitap okumayı, müzik dinlemeyi,fotoğraf çekmeyi severim.</p>
+            
+</body>
+</html>
